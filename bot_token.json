@@ -2,7 +2,7 @@
   "resellers": [
     1338954214
   ],
-  "allowed_ips": ["172.18.0.41", "134.199.161.96"],
+  "allowed_ips": ["165.22.100.125", "134.199.161.96"],
   "tokens": [
     "7713109590:AAEWsgB3tFq43GjsZaThb9dUE11tzvvqmNw"
   ]
